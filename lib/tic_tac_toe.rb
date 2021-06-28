@@ -127,39 +127,5 @@ end
   
   
   
-  #asks for players input on a turn of the game
-  #user_input = gets.strip 
-  #plays the first turn of the game
-  #turn(board)
-  
-  # plays through an entire game 
-  # start a loop and call turn(board)
-  # counter = 1
-  # until counter == 9
-  # turn(board)
-  # #checks if the game is a draw after every turns
-  # draw?(board)
-  # #stops playing on a draw & print cats game
-  # if draw?(board)
-  #   print "Cat's Game!" && over?(board)
-  # end  
-  # #checks if the game is over after every turn
-  # over?(board)
-  # #checks if the game is won after every turns
-  # won?(board)
-  # counter += 1
-  # #stops playing if someone has won - if won, then the game is over
-  # if won?(board) 
-  #   over?(board)
-  # end  
-  # end
-  
-  # #Congratulates the winner X or O 
-  # if winner(board) == "X"
-  #   "Congratulations X!"
-  # else 
-  #   "Congratulations O!"
-  # end
-
   
 
